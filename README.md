@@ -5,7 +5,7 @@ This is a basic iOS app that utilizes different components and functionalities. 
 
 ### App Walk-though
 
-<img src="https://imgur.com/a/d95P3yd" width=200><br>
+<img src="https://imgur.com/4noNADA" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
